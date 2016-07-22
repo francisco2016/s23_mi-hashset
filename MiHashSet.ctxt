@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiHashSet()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MiHashSet\r\n
+comment1.params=valor
+comment1.target=boolean\ add(int)
+comment1.text=\r\n\ a\u00F1ade\ el\ elemento\ al\ conjunto\ si\ no\ estaba.\ Devuelve\ verdadero\ en\ caso\ de\ que\ el\ elemento\ no\ estuviera\ presente\r\n\ en\ el\ conjunto\ y\ falso\ en\ caso\ contrario.\r\n
+comment2.params=valor
+comment2.target=void\ add2(int)
+comment2.text=\r\n\ a\u00F1ade\ el\ elemento\ al\ conjunto\ \r\n
+comment3.params=valor
+comment3.target=int\ getValor2(int)
+comment3.text=\r\n\ informa\ del\ \u00EDndice\ que\ tiene\ el\ valor\ pasado,\ o\ -1\ si\ el\ valor\ pasado\ no\ est\u00E1\ en\ la\ colecci\u00F3n.\r\n
+comment4.params=valor
+comment4.target=int\ getValor(int)
+comment4.text=\r\n\ retorna\ el\ valor\ pasado\ como\ par\u00E1metro,\ si\ este\ valor\ ya\ est\u00E1\ en\ la\ colecci\u00F3n,\ -1\ si\ no\ est\u00E1\ en\ la\ colecci\u00F3n.\r\n\ @return\ -1\ si\ el\ valor\ del\ par\u00E1metro\ no\ est\u00E1\ en\ la\ colecci\u00F3n\r\n
+comment5.params=elemento
+comment5.target=boolean\ remove(int)
+comment5.text=\r\n\ elimina\ del\ conjunto\ el\ elemento\ dado\ si\ exist\u00EDa\ y\ devuelve\ verdadero.\ Si\ no\ existiera\ devuelve\ falso;\r\n
+numComments=6
